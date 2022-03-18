@@ -1,5 +1,5 @@
 # NumberGuessGameVerCompose Application
-#### Assignment 2
+#### Assignment 3
 
 >Name: Kodchamol Aukkarabenjasiri
 >ID: 6210612666
